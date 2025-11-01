@@ -50,7 +50,7 @@ img {
 }
 
 
-.container {
+.container { 
     padding: 40px;
     width: 360px;
     background-color: var(--Grey-800);
@@ -99,5 +99,13 @@ img {
     background-color: var(--Grey-700);
     padding: 10px;
     border-radius: 50px;
+
+}
+
+@media (max-width:768px)  {
+    .container{
+        width: 305px;
+        padding: 15px;
+    }
 
 }
