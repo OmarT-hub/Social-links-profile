@@ -109,14 +109,13 @@ img {
 
 @media (max-width:768px) {
     body {
-        align-items: flex-start;
-        overflow: hidden;
+        overflow-y: hidden;
     }
 
     .container {
         width: 305px;
         padding: 15px;
-        margin-top:30px;
+        margin-top:20px !important;
 
     }
 
