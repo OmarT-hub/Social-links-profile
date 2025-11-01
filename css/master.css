@@ -110,6 +110,7 @@ img {
 @media (max-width:768px) {
     body {
         align-items: flex-start;
+        overflow: hidden;
     }
 
     .container {
