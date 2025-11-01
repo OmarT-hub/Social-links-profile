@@ -20,4 +20,5 @@
 
 
 *.md
+!README.md
 preview.jpg
